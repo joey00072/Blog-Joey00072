@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'PythonStuff',
+  title: 'Joey00072',
   author: 'Joey00072',
-  headerTitle: 'PythonStuff',
+  headerTitle: 'Joey00072',
   description: 'A blog created AI, Python and other things I find interesting.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://pythonstuff.com',
-  siteRepo: 'https://github.com/joey00072/pythonstuff',
+  siteUrl: 'https://joey00072.com',
+  siteRepo: 'https://github.com/joey00072/Blog-Joey00072',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
